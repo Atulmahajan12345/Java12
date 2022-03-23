@@ -8,6 +8,8 @@ public class Arithmatic3 {
 		int sum=a%b+c;
 		int per=sum;
 		System.out.println(per);
+
+		
 		}
 
 
